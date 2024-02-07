@@ -1,0 +1,25 @@
+E:\C#\AlcVolume\obj\Debug\AlcVolume.csproj.AssemblyReference.cache
+E:\C#\AlcVolume\obj\Debug\AlcVolume.Form1.resources
+E:\C#\AlcVolume\obj\Debug\AlcVolume.Properties.Resources.resources
+E:\C#\AlcVolume\obj\Debug\AlcVolume.csproj.GenerateResource.cache
+E:\C#\AlcVolume\obj\Debug\AlcVolume.csproj.CoreCompileInputs.cache
+E:\C#\AlcVolume\bin\Debug\AlcVolume v.0.1.2.exe
+E:\C#\AlcVolume\bin\Debug\AlcVolume v.0.1.2.pdb
+E:\C#\AlcVolume\obj\Debug\AlcVolume v.0.1.2.exe
+E:\C#\AlcVolume\obj\Debug\AlcVolume v.0.1.2.pdb
+E:\C#\AlcVolume\bin\Debug\mscorlib.dll
+E:\C#\AlcVolume\bin\Debug\ru\mscorlib.resources.dll
+E:\C#\AlcVolume\bin\Debug\sortkey.nlp
+E:\C#\AlcVolume\bin\Debug\sorttbls.nlp
+E:\C#\AlcVolume\bin\Debug\big5.nlp
+E:\C#\AlcVolume\bin\Debug\bopomofo.nlp
+E:\C#\AlcVolume\bin\Debug\ksc.nlp
+E:\C#\AlcVolume\bin\Debug\prc.nlp
+E:\C#\AlcVolume\bin\Debug\prcp.nlp
+E:\C#\AlcVolume\bin\Debug\xjis.nlp
+E:\C#\AlcVolume\bin\Debug\normidna.nlp
+E:\C#\AlcVolume\bin\Debug\normnfc.nlp
+E:\C#\AlcVolume\bin\Debug\normnfd.nlp
+E:\C#\AlcVolume\bin\Debug\normnfkc.nlp
+E:\C#\AlcVolume\bin\Debug\normnfkd.nlp
+E:\C#\AlcVolume\obj\Debug\AlcVolume.csproj.CopyComplete
