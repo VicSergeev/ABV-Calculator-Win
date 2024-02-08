@@ -1,2 +1,3 @@
 Made just for fun for my friends moonshiners =)
-![изображение](https://github.com/VicSergeev/ABV-Calculator-Win/assets/133888588/9c44bf28-074e-4b91-b090-25fde0545d6f)
+
+![изображение](https://github.com/VicSergeev/ABV-Calculator-Win/assets/133888588/c826d70a-3a59-4a56-8d0d-e16e2c9f04ba)
